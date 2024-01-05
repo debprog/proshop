@@ -1,6 +1,6 @@
 import React from 'react'
 import { Row,Col } from 'react-bootstrap'
-import products from '../products'
+
 import {Card} from 'react-bootstrap'
 import Rating from './Rating'
 import { Link } from 'react-router-dom'
