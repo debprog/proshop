@@ -1,0 +1,15 @@
+{
+  "name": "brad_ecommerce",
+  "version": "1.0.0",
+  "description": "ecommerce application using MERN",
+  "type": "module",
+  "main": "server.js",
+  "scripts": {
+    "start": "node backend/server.js"
+  },
+  "author": "Debayan Pal",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
