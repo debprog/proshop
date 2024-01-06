@@ -1,5 +1,5 @@
 import express from "express";
-import products from '../data/products.js';
+
 
 import asyncHandler from "../middleware/asyncHandler.js";
 
